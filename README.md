@@ -5,4 +5,4 @@ Data Structure:
 
 ## Trie
 1.[Insertion of Character in Trie](https://github.com/Shishir-grez/Data-Structures-Algorithms/blob/main/Trie/Insert.cpp)  
-2.[Distinct Substrings of String](https://github.com/Shishir-grez/Data-Structures-Algorithms/blob/main/Trie/distinctSubstringsOfString.cpp)
+2.[Distinct Substrings of String](https://github.com/Shishir-grez/Data-Structures-Algorithms/blob/main/Trie/distinctSubstringsOfString.cpp)  
