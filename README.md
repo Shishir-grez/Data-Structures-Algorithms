@@ -5,7 +5,8 @@ Data Structure:
   2.[Trie](https://github.com/Shishir-grez/Data-Structures-Algorithms/tree/main?tab=readme-ov-file#trie)
 
 ## Arrays+Hashing
-1. [Next Permutation](https://github.com/Shishir-grez/Data-Structures-Algorithms/blob/main/ArraysHashing)
+1.[Next Permutation](https://github.com/Shishir-grez/Data-Structures-Algorithms/blob/main/ArraysHashing/NextPermutation)
+2.[2Sum](https://github.com/Shishir-grez/Data-Structures-Algorithms/blob/main/ArraysHashing/2Sum)
    
 ## Trie
 1.[Insertion of Character in Trie](https://github.com/Shishir-grez/Data-Structures-Algorithms/blob/main/Trie/Insert)   
