@@ -7,6 +7,7 @@ Data Structure:
 ## Arrays+Hashing
 1.[Next Permutation](https://github.com/Shishir-grez/Data-Structures-Algorithms/blob/main/ArraysHashing/NextPermutation)
 2.[2Sum](https://github.com/Shishir-grez/Data-Structures-Algorithms/blob/main/ArraysHashing/2Sum)
+3.[3Sum](https://github.com/Shishir-grez/Data-Structures-Algorithms/blob/main/ArraysHashing/3Sum)
    
 ## Trie
 1.[Insertion of Character in Trie](https://github.com/Shishir-grez/Data-Structures-Algorithms/blob/main/Trie/Insert)   
